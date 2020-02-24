@@ -32,7 +32,7 @@ no! of course not, but i wih=sh it was :)))
 
 ## how to run? 
 + simply run script with: `python3 java_combiner.py` 
-+ or run: `chmod +x java_combiner.py` and then `./java_combiner.py'
++ or run: `chmod +x java_combiner.py` and then `./java_combiner.py`
 ` 
 
 
